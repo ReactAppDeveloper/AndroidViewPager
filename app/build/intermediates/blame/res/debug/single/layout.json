@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\Comsol Work App\\AndroidUIPageViewController\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Comsol Work App\\AndroidUIPageViewController\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Comsol Work App\\AndroidUIPageViewController\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_pager_item.xml",
+        "source": "F:\\Comsol Work App\\AndroidUIPageViewController\\app\\src\\main\\res\\layout\\view_pager_item.xml"
+    }
+]

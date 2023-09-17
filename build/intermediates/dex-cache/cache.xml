@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Comsol Work App\AndroidUIPageViewController\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="26.0.2"
+        sha1="1c987088384a1e3e23d3e43d52ae5b1e070128d6">
+        <dex dex="F:\Comsol Work App\AndroidUIPageViewController\app\build\intermediates\pre-dexed\debug\instant-run_bb2bc1ccf6f97912c10029384b262e5d02006a7f.jar" />
+    </item>
+    <item
+        jar="F:\Comsol Work App\AndroidUIPageViewController\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="26.0.2"
+        sha1="97dc2a4d055fa1bd7b8adf3667fcb181d4920865">
+        <dex dex="F:\Comsol Work App\AndroidUIPageViewController\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_3b6151d8c87e78c930a855d74cca6ac861b0bb14.jar" />
+    </item>
+    <item
+        jar="E:\Android\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="26.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\Comsol Work App\AndroidUIPageViewController\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_7240c029ae0b9807d51a9914072335d10444656b.jar" />
+    </item>
+
+</items>
